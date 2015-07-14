@@ -1,0 +1,25 @@
+{
+  "name": "timezone-list",
+  "version": "0.1.0",
+  "description": "",
+  "main": "/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faceair/timezone-list.git"
+  },
+  "keywords": [
+    "timezone"
+  ],
+  "author": "faceair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faceair/timezone-list/issues"
+  },
+  "homepage": "https://github.com/faceair/timezone-list#readme",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
+}
