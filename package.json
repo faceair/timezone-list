@@ -19,7 +19,8 @@
     "url": "https://github.com/faceair/timezone-list/issues"
   },
   "homepage": "https://github.com/faceair/timezone-list#readme",
-  "dependencies": {
+  "dependencies": {}
+  "devDependencies": {
     "request": "^2.58.0"
   }
 }
