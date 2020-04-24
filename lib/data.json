@@ -1733,7 +1733,7 @@
       "name": "Ukraine",
       "abbr": "UA",
       "zones": [
-        "Europe/Kiev",
+        "Europe/Kyiv",
         "Europe/Uzhgorod",
         "Europe/Zaporozhye"
       ]
@@ -4657,8 +4657,8 @@
       ],
       "comments": ""
     },
-    "Europe/Kiev": {
-      "name": "Europe/Kiev",
+    "Europe/Kyiv": {
+      "name": "Europe/Kyiv",
       "lat": 50.4333,
       "long": 30.5167,
       "countries": [
